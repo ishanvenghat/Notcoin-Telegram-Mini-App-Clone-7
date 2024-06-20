@@ -18,7 +18,7 @@ body {
 }
 background-image:url(https://ibb.co/ZBH5jD2)
 .bg-gradient-main {
-  background: linear-gradient(to top, #2289ff, #c0066ff);
+  background: linear-gradient(to top, #2289ff, #2289ff);
 }
 
 .bg-gradient-overlay {

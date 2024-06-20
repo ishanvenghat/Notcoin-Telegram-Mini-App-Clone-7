@@ -80,7 +80,7 @@ const App = () => {
                   <img src={bear} width={24} height={24} alt="High Voltage" />
                   <span>Frens</span>
                 </button>
-                <div className="h-[48px] w-[2px] bg-[#eec203]"></div>
+                <div className="h-[48px] w-[2px] bg-[#fddb6d]"></div>
                 <button className="flex flex-col items-center gap-1">
                   <img src={coin} width={24} height={24} alt="High Voltage" />
                   <span>Earn</span>

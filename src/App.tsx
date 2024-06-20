@@ -77,7 +77,7 @@ const App = () => {
             <div className="flex-grow flex items-center max-w-60 text-sm">
               <div className="w-full bg-[#eec203] py-4 rounded-2xl flex justify-around">
                 <button className="flex flex-col items-center gap-1">
-                  <img src={bear} width={24} height={24} alt="High Voltage" />
+                  <img src={bear} width={34} height={34} alt="High Voltage" />
                   <span>Frens</span>
                 </button>
                 <div className="h-[48px] w-[2px] bg-[#fddb6d]"></div>

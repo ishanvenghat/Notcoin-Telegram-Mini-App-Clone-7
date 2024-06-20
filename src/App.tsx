@@ -94,7 +94,7 @@ const App = () => {
             </div>
           </div>
           <div className="w-full bg-[#f9c035] rounded-full mt-4">
-            <div className="bg-gradient-to-r from-[#2289ff] to-[#439bff] h-4 rounded-full" style={{ width: `${(energy / 6500) * 100}%` }}></div>
+            <div className="bg-gradient-to-r from-[#68dd1b] to-[#c5f725] h-4 rounded-full" style={{ width: `${(energy / 6500) * 100}%` }}></div>
           </div>
         </div>
 

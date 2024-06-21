@@ -91,7 +91,6 @@ const App = () => {
                   <span>Boosts</span>
                 </button>
               </div>
-              <img src="/notcoin.png" alt="Cat drinking milk" style=" object-fit: cover" />
             </div>
           </div>
           <div className="w-full bg-[#0c6787] rounded-full mt-4">

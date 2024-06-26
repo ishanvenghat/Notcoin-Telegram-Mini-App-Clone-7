@@ -29,9 +29,15 @@ body {
   50% {background-position: center;}
 }
 .bg-gradient-overlay {
-  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(0,212,255,0) 100%);
+  background-image: url(src/images/IMG_1433.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: auto;animation: mymove 30s infinite;
 }
-
+@keyframes mymove {
+  50% {background-position: center;}
+}
 .radial-gradient-overlay {
   position: absolute;
   width: 100%;

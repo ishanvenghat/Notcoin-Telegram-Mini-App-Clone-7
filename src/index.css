@@ -33,7 +33,8 @@ body {
   50% {background-position: center;}
 }
 .bg-gradient-overlay {
-  background-image: url(background.jpg);
+  background-image: url (background.jpg);
+  background-color: blue ;
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;

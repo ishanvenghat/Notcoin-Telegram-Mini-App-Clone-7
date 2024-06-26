@@ -5,6 +5,8 @@
 body {
   font-family: "Lilita One";
   text-shadow: 0px 3px 0px black;
+   -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 @keyframes float {

@@ -4,8 +4,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 body {
   font-family: "Lilita One"
-  webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
 }
 
 @keyframes float {
@@ -18,11 +16,6 @@ body {
     transform: translateY(-50px);
   }
 }
-bg {
-background- image: url("notcoin.png"); background-image : image-set( "cat.jpg" lx,
-"cat-2x.jpg" 2x,
-"cat-print.png" 600dpi background-size: cover;
-                                                                  }
 .bg-gradient-main {
   background: linear-gradient(to top, #2289ff, #2289ff);
 }

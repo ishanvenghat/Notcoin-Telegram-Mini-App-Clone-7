@@ -7,7 +7,7 @@ body {
   text-shadow: 0px 3px 0px black;
    -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
-  background-image: url(background.jpg);
+  background-image: url("background.jpg");
 }
 
 @keyframes float {
@@ -23,7 +23,7 @@ body {
 
 
 .bg-gradient-main {
-  background-image: url(src/images/IMG_1433.jpg);
+  background-image: url("src/images/IMG_1433.jpg");
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -33,7 +33,7 @@ body {
   50% {background-position: center;}
 }
 .bg-gradient-overlay {
-  background-image: url (background.jpg);
+  background-image: url("background.jpg");
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;

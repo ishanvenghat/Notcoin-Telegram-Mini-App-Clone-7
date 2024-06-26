@@ -19,7 +19,7 @@ body {
 
 
 .bg-gradient-main {
-  background-image: url(assets/IMG_1433.jpg);
+  background-image: url(src/images/IMG_1433.jpg);
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;

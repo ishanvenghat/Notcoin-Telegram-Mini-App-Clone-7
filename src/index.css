@@ -34,7 +34,6 @@ body {
 }
 .bg-gradient-overlay {
   background-image: url (background.jpg);
-  background-color: blue ;
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
